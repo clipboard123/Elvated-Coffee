@@ -1,0 +1,71 @@
+h1{
+  font-family: 'Sansita Swashed', cursive;
+  width: 100%;
+  background-color: lightblue;
+  text-align: center;
+  height: 100px;
+  padding: 30px;
+  
+}
+
+
+ul {
+    list-style-type: none;
+    margin-top: 4px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Sansita Swashed', cursive;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgba(255, 255, 255, 0.849);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    float: left;
+  }
+
+  li a:hover:not(.active) {
+    background-color: #111;
+    float: left;
+  }
+
+img{
+  text-align: center;
+  width: 50%;
+  margin-left: 27%;
+}
+
+div {
+    width: 100%;
+    background-color: rgb(218, 138, 19);
+    color: 000;
+    height: 180xp;
+    margin: 4px;
+    padding: 10px;
+    font-family: 'Newsreader', serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+
+
+footer{
+  float: center;
+  background-color:none;
+  list-style-type: none;
+  font-family: 'Newsreader', serif;
+  text-align: center;
+}
+  
+
+
+
