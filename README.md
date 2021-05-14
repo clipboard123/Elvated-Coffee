@@ -1,2 +1,2 @@
 # Elvated Coffee
- Coffee shoop
+ Coffee shop
